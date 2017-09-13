@@ -4,3 +4,4 @@ delete from book where id=1;
 master 777777777
 update book set name='haha';
 github update 01
+local new project
