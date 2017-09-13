@@ -7,3 +7,4 @@ github update 01
 local new project
 local new input
 local dev new input
+remote dev new input01
